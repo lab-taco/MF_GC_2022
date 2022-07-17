@@ -1,1 +1,1 @@
-# MF_GC_2022
+# MF-GC organization
