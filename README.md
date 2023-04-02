@@ -8,4 +8,4 @@
 - There's no explanation of the data structure or actual utilization of functions and class methods.
 - Readers should customize the code depending on their purpose.
 
-For citing, Taegon Kim, Heeyoun Park, Keiko Tanaka-Yamamoto, and Yukio Yamamoto, Developmental timing-dependent organization of synaptic connections between mossy fibers and granule cells in the cerebellum, Communications Biology, vol XX, page XX, DOI : XXX
+For citation, Taegon Kim, Heeyoun Park, Keiko Tanaka-Yamamoto, and Yukio Yamamoto, Developmental timing-dependent organization of synaptic connections between mossy fibers and granule cells in the cerebellum, Communications Biology, vol XX, page XX, DOI : XXX
